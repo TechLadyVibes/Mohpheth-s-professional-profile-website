@@ -1095,6 +1095,10 @@ video {
     flex-direction: row;
   }
 
+  .sm\:flex-nowrap {
+    flex-wrap: nowrap;
+  }
+
   .sm\:justify-center {
     justify-content: center;
   }
